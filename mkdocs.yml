@@ -1,1 +1,44 @@
-site_name: My Docs
+site_name: Lauren Nicole Smith — QA Automation Consultant
+site_description: QA automation strategy, frameworks, and coaching for fast-moving teams.
+site_url: https://technolotrix.github.io
+repo_url: https://github.com/technolotrix/technolotrix.github.io
+nav:
+  - Home: index.md
+  - Services: services.md
+  - Case Studies: case-studies.md
+  - Insights: insights.md
+  - Contact: contact.md
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.code.copy
+    - toc.integrate
+  icon:
+    repo: fontawesome/brands/github
+  language: en
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/technolotrix
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/technolotrix
+    - icon: fontawesome/regular/envelope
+      link: mailto:technolotrix@google.com
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.emoji
+
+plugins:
+  - search

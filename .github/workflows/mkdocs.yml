@@ -10,7 +10,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
-        with: { python-version: "3.x" }
+        with:
+          python-version: "3.x"
       - run: pip install mkdocs mkdocs-material
       - run: mkdocs build --strict
       - uses: peaceiris/actions-gh-pages@v4

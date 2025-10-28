@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Hi, I'm Your Name 👋
+**QA Automation Consultant | Test Strategy | Team Leadership**
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+I help teams accelerate release cycles and increase confidence in delivery through smart automation and practical QA leadership.
 
-## Commands
+**What I do**
+- Build & modernize Python-based test frameworks (Playwright/Selenium + Pytest)
+- Integrate reliable tests into CI/CD and improve flakiness
+- Coach teams and leads on Agile QA practices and metrics
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+→ Explore my [Services](services.md) and [Case Studies](case-studies.md), or [Contact me](contact.md).
