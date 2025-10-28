@@ -1,4 +1,4 @@
-# Hi, I'm Your Name 👋
+# Hi, I'm Lauren Nicole Smith 👋
 **QA Automation Consultant | Test Strategy | Team Leadership**
 
 I help teams accelerate release cycles and increase confidence in delivery through smart automation and practical QA leadership.
