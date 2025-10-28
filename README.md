@@ -1,2 +1,2 @@
 # technolotrix.github.io
-Resume 
+Resume and Projects!
