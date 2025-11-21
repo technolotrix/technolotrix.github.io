@@ -1,0 +1,21 @@
+<footer class="md-footer-meta__inner">
+  <div class="footer-center" style="
+  margin-top: 2.5rem;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  color: #555;
+  border-top: 1px solid #ddd;
+  ">
+    © <span id="current-year"></span> LNS Consulting SAC — Todos los derechos reservados 2025
+    <p>
+      <a href="/es/libro/" style="color:#0066cc; text-decoration:none;">Libro de Reclamaciones</a>
+    </p>
+  </div>
+</footer>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.getElementById("current-year").textContent = new Date().getFullYear();
+  });
+</script>
